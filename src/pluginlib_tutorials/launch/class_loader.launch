@@ -1,0 +1,10 @@
+    <launch>
+
+        <!-- plugin params -->
+        <param name="polygon_loader_v1/derive_class_1" value="polygon_plugins::Triangle" />
+        <param name="polygon_loader_v1/derive_class_2" value="polygon_plugins::Square" />
+
+        <node name="polygon_loader_v1"
+             pkg="pluginlib_tutorials" type="polygon_loader_v1" output="screen" />
+
+    </launch>

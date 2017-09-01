@@ -1,0 +1,36 @@
+# CMake generated Testfile for 
+# Source directory: /home/kmxz/catkin_ws/src
+# Build directory: /home/kmxz/catkin_ws/build
+# 
+# This file includes the relevant testing commands required for 
+# testing this directory and lists subdirectories to be tested as well.
+SUBDIRS(gtest)
+SUBDIRS(rbx1/rbx1)
+SUBDIRS(rbx2/rbx2)
+SUBDIRS(xdot)
+SUBDIRS(pluginlib_tutorials)
+SUBDIRS(rbx1/rbx1_bringup)
+SUBDIRS(rbx1/rbx1_speech)
+SUBDIRS(rbx2/rbx2_diagnostics)
+SUBDIRS(rbx2/rbx2_gazebo)
+SUBDIRS(rbx2/rbx2_msgs)
+SUBDIRS(rbx1/rbx1_vision)
+SUBDIRS(rbx2/rbx2_vision)
+SUBDIRS(rbx1/rbx1_dynamixels)
+SUBDIRS(rbx2/rbx2_bringup)
+SUBDIRS(rbx2/rbx2_dynamixels)
+SUBDIRS(rbx2/rbx2_tasks)
+SUBDIRS(rbx2/rbx2_utils)
+SUBDIRS(rbx2/rbx2_gui)
+SUBDIRS(rbx1/rbx1_apps)
+SUBDIRS(rbx1/rbx1_nav)
+SUBDIRS(rbx2/rbx2_ar_tags)
+SUBDIRS(rbx2/rbx2_arm_nav)
+SUBDIRS(rbx2/rbx2_nav)
+SUBDIRS(mybot_description)
+SUBDIRS(rbx1/rbx1_description)
+SUBDIRS(rbx2/rbx2_description)
+SUBDIRS(rbx2/grasping_pi_robot_moveit_config)
+SUBDIRS(rbx2/pedestal_pi_no_gripper_moveit_config)
+SUBDIRS(rbx2/pedestal_pi_with_gripper_moveit_config)
+SUBDIRS(rbx2/pi_robot_moveit_config)
